@@ -66,4 +66,3 @@ Ensure the Docker daemon is running.
 Verify that the container ports (3000, 3001) are available.
 Invalid option:
 
-Enter a number between 1 and 2 to select a valid action.
