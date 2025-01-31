@@ -62,5 +62,5 @@ main() {
     esac
 }
 
-# Start the script
+
 main
