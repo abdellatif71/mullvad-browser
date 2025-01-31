@@ -14,7 +14,7 @@ Before running the script, ensure the following requirements are met:
 
 ---
 
-
+## Installation
 
 1. Download the script or copy the code into a file, e.g., `launcher.sh`.
 2. Make the file executable:
